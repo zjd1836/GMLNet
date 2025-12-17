@@ -1,2 +1,2 @@
 # GMLNet
-Our article is under review. After it is officially published, we will make the code and data public. Thank you for your attention.
+Our paper is currently under review. We will release the code and data immediately after the paper is officially published. Thank you for your interest.
