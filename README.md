@@ -6,9 +6,9 @@ Python 3.10
 pytorch 1.12.1  
 CUDA 11.3
 # GMLNet code
-DIPFNet Link: https://github.com/zjd1836/GMLNet/blob/main/GMLNet.py
+GMLNet Link: https://github.com/zjd1836/GMLNet/blob/main/GMLNet.py
 # GMLD dataset
-GMLD Link: https://pan.baidu.com/s/1PsR4cz-xxyNvk0AGyfdkWw?pwd=xtre Extraction Code: xtre
+GMLD Link: https://pan.baidu.com/s/1hP2EwHkILxqWrmfnsJugxw?pwd=k4qq
 # Citation
 If you use this code or dataset for your research, please cite our paper:  
 Zhang J, Zhou N, Yan Y, et al. GMLNet: A Lightweight Frequency-Gradient Framework for Gravel-Mulched Land Segmentation in High-Resolution Optical Imagery[J]. Expert Systems with Applications, 2026: 133300.
