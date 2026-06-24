@@ -1,5 +1,6 @@
 # GMLNet: A Lightweight Frequency-Gradient Framework for Gravel-Mulched Land Segmentation in High-Resolution Optical Imagery
-For more ore information, please see our published paper at [Expert Systems with Applications](https://doi.org/10.1016/j.eswa.2026.133300).
+For more information, please see our published paper at [Expert Systems with Applications](https://doi.org/10.1016/j.eswa.2026.133300).
+
 ![DIPFNet](GMLNet-Framework.jpg)
 # Requirements
 Python 3.10  
